@@ -1,0 +1,15 @@
+body {
+  font-family: "Manrope", sans-serif;
+  font-size: 13px;
+  background-color: #ccc;
+}
+
+.article {
+  color: hsl(217, 19%, 35%);
+  font-weight: 700;
+}
+
+.pcontent {
+  color: hsl(214, 17%, 51%);
+  font-weight: 500;
+}
